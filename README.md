@@ -9,7 +9,7 @@ A list of priorities:
 2. Personally collaborate on two other classmates repos
 3. Turn in assignment
 
-# is Marco Castrita's contrubution to readme
+# This is Marco Castrita's contrubution to readme
 
 - [x] find one teammate
 - [ ] find another
